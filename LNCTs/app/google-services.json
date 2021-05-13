@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424125411315",
+    "firebase_url": "https://lncts-664e2.firebaseio.com",
+    "project_id": "lncts-664e2",
+    "storage_bucket": "lncts-664e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424125411315:android:06337866302c6fb98bec86",
+        "android_client_info": {
+          "package_name": "com.example.lncts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424125411315-u5n0u19ccc58q5qaacdvk3rj62e0ja2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQakxcPI5R4U-lAUQJzdotfdr625csdfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424125411315-u5n0u19ccc58q5qaacdvk3rj62e0ja2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
